@@ -1,0 +1,7 @@
+name: "Nyashi Custom Events"
+version: 1.0
+main: nyashi.plugin.App
+prefix: "Nya CE"
+softdepend: [PlaceholderAPI]
+author: "Nyashi"
+authors: ["Nyashi", "AgustinPro"]
